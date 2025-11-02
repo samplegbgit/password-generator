@@ -7,3 +7,6 @@
 - Added password generation logic.
 - Supports letters, numbers, symbols.
 
+## Day 3
+- Added password strength indicator and copy button.
+- Final polish.
