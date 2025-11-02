@@ -9,4 +9,4 @@
 
 ## Day 3
 - Added password strength indicator and copy button.
-- Final polish.
+- Final and last polish.
